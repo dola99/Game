@@ -1,16 +1,24 @@
-# game
+ Game App 
 
-A new Flutter project.
+⚠️ Before running the app you have to edit the .env file in the root of the example
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Environment Variables
 
-A few resources to get you started if this is your first Flutter project:
+To run this project, you will need to add the following environment variables to your .env file
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+`BASE_URL`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Documentation
+
+This App run with flutter version 2.10.3 
+with lastes Package
+with Bloc StateManagment
+
+
+![Alt Text](https://github.com/dola99/Game/blob/main/Record_2022-03-23-15-10-24%20(1).gif)
+
+
+
